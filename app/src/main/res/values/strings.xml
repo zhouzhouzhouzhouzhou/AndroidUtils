@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Utils</string>
+    <string name="hello">Hello</string>
+
+    <string name="week_zero">Sunday</string>
+    <string name="week_one">Monday</string>
+    <string name="week_two">Tuesday</string>
+    <string name="week_three">Wednesday</string>
+    <string name="week_four">Thursday</string>
+    <string name="week_five">Friday</string>
+    <string name="week_six">Saturday</string>
+</resources>
